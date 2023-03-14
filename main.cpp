@@ -18,3 +18,4 @@ if (D > 0)
 	printf("%lf\n", x1);
 	printf("%lf\n", x2);
 }
+else
