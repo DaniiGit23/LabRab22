@@ -11,3 +11,4 @@ scanf_s("%lf", &b);
 printf("Write c ");
 scanf_s("%lf", &c);
 D = b * b - 4 * a * c;
+if (D > 0)
